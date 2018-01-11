@@ -13,6 +13,7 @@
       "describe": true,
   },
   "rules": {
+    "arrow-parens": 0,
     "no-console": 0,
     "semi": 0,
     "import/no-extraneous-dependencies": [2, { "devDependencies": true }],
